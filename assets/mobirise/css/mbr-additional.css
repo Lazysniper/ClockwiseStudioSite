@@ -2028,53 +2028,6 @@ section.lazy-placeholder:after {
 .cid-rZxEXOPUSx H4 {
   color: #efefef;
 }
-.cid-rZxJXQsYJ4 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #000000;
-}
-.cid-rZxJXQsYJ4 h3 {
-  font-weight: 300;
-}
-.cid-rZxJXQsYJ4 .card-img {
-  width: initial;
-}
-.cid-rZxJXQsYJ4 .card-img .mbr-iconfont {
-  font-size: 48px;
-  padding-right: 1rem;
-}
-.cid-rZxJXQsYJ4 .media-container-row {
-  word-wrap: break-word;
-  padding-bottom: 2rem;
-  min-height: 100%;
-}
-.cid-rZxJXQsYJ4 .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-rZxJXQsYJ4 .mbr-section-subtitle {
-  color: #efefef;
-}
-.cid-rZxJXQsYJ4 .mbr-text {
-  color: #efefef;
-}
-.cid-rZxJXQsYJ4 .media-container-column {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-direction: column-reverse;
-  -webkit-flex-direction: column-reverse;
-}
-.cid-rZxJXQsYJ4 .mbr-al-i-c {
-  align-items: center;
-}
-.cid-rZxJXQsYJ4 .mbr-section-title {
-  color: #ffffff;
-}
-.cid-rZxJXQsYJ4 .card-title {
-  color: #ffffff;
-}
 .cid-rZxIAIfzWs .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -2953,6 +2906,53 @@ section.lazy-placeholder:after {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-rZzI7CbJYb {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-rZzI7CbJYb h3 {
+  font-weight: 300;
+}
+.cid-rZzI7CbJYb .card-img {
+  width: initial;
+}
+.cid-rZzI7CbJYb .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-rZzI7CbJYb .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  min-height: 100%;
+}
+.cid-rZzI7CbJYb .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rZzI7CbJYb .mbr-section-subtitle {
+  color: #efefef;
+}
+.cid-rZzI7CbJYb .mbr-text {
+  color: #efefef;
+}
+.cid-rZzI7CbJYb .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-direction: column-reverse;
+  -webkit-flex-direction: column-reverse;
+}
+.cid-rZzI7CbJYb .mbr-al-i-c {
+  align-items: center;
+}
+.cid-rZzI7CbJYb .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rZzI7CbJYb .card-title {
+  color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "art.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4135,7 +4135,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/1-1920x1080.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -4155,8 +4155,8 @@
                 "overlayColor": "#1d0401"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/featuregraphicseven-1024x500.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/5de14a8859d27b2c28177089-levelselectionconcept-1-1280x720.png",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,

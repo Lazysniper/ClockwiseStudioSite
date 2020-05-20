@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "art.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -49,7 +49,14 @@
     "uniqCompNum": 70,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/bearze-128x149.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "software.html": {
